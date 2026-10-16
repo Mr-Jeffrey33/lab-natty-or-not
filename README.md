@@ -19,7 +19,7 @@ A solução adotada foi dividir as tarefas entre as IAs:
 - **Capa do E-book:** Imagem renderizada em 3D isométrico com estética neon (disponível na pasta do projeto).
 - **Conteúdo do Guia:** Mini e-book completo com introdução ao conceito "Fake Natty", lista de compras de baixo custo, circuito ilustrado e código funcional.
 
-*(Dica: Se você salvou a imagem na pasta do seu repositório com o nome `capa.jpg`, você pode exibi-la aqui adicionando: `![Capa do Projeto](capa.jpg)`)*
+
 
 ## 💭 Reflexão
 Criar algo "Natty" (genuíno/natural) usando IA exige saber direcionar cada ferramenta para o seu ponto forte. A IA de imagem brilha no conceito e na estética, enquanto a IA de texto/código acelera a didática e a lógica. O diferencial continua sendo o pensamento humano para orquestrar as ferramentas e validar se o circuito faz sentido na prática.
